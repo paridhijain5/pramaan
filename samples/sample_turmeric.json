@@ -1,0 +1,106 @@
+{
+  "google_scholar": {
+    "search_metadata": {
+      "id": "sample-scholar-turmeric",
+      "status": "Success",
+      "engine": "google_scholar"
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "turmeric diabetes clinical trial"
+    },
+    "organic_results": [
+      {
+        "title": "Curcumin and metabolic health: a systematic review of clinical studies",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/314058-mock/",
+        "snippet": "This systematic review evaluates human studies of curcumin and markers of metabolic health. The authors note limitations in trial size and duration.",
+        "publication_info": {
+          "summary": "A Sharma, P Iyer - Nutrition Research Reviews, 2021"
+        },
+        "inline_links": {
+          "cited_by": {
+            "total": 42
+          }
+        }
+      },
+      {
+        "title": "Curcumin supplementation in adults with type 2 diabetes: a randomized pilot trial",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/307229-mock/",
+        "snippet": "A small randomized clinical trial in human patients examined curcumin supplementation alongside standard care.",
+        "publication_info": {
+          "summary": "R Mehta, S Nair - Journal of Clinical Nutrition, 2019"
+        },
+        "inline_links": {
+          "cited_by": {
+            "total": 18
+          }
+        }
+      },
+      {
+        "title": "Effects of turmeric extract in a mouse model of insulin resistance",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/296815-mock/",
+        "snippet": "Preliminary animal research in mice; the findings do not establish a treatment for people.",
+        "publication_info": {
+          "summary": "L Chen, M Wong - Experimental Biology, 2018"
+        },
+        "inline_links": {
+          "cited_by": {
+            "total": 27
+          }
+        }
+      }
+    ]
+  },
+  "google_news": {
+    "search_metadata": {
+      "id": "sample-news-turmeric",
+      "status": "Success",
+      "engine": "google_news"
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "q": "turmeric diabetes"
+    },
+    "news_results": [
+      {
+        "title": "Fact check: turmeric drinks do not replace diabetes treatment",
+        "source": {
+          "name": "Health Desk"
+        },
+        "date": "May 14, 2025",
+        "link": "https://example.org/fact-check-turmeric-diabetes"
+      },
+      {
+        "title": "Researchers study curcumin, but evidence remains preliminary",
+        "source": {
+          "name": "Science Brief"
+        },
+        "date": "2 days ago",
+        "link": "https://example.org/curcumin-research"
+      }
+    ]
+  },
+  "google": {
+    "search_metadata": {
+      "id": "sample-google-turmeric",
+      "status": "Success",
+      "engine": "google"
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "turmeric diabetes fact check myth"
+    },
+    "organic_results": [
+      {
+        "title": "No evidence that turmeric water cures diabetes",
+        "link": "https://example.org/no-evidence-turmeric-water",
+        "snippet": "A fact-check review says turmeric water is not a proven cure; people should not stop prescribed care."
+      },
+      {
+        "title": "Curcumin research and diabetes: what studies can and cannot show",
+        "link": "https://example.org/curcumin-diabetes-research",
+        "snippet": "Some studies investigate turmeric compounds, but they do not establish that a drink cures diabetes."
+      }
+    ]
+  }
+}
